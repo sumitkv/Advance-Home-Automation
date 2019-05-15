@@ -19,15 +19,15 @@
 
 /************************* WiFi Access Point *********************************/
 
-#define WLAN_SSID       "amit"
-#define WLAN_PASS       "amitv1234"
+#define WLAN_SSID       ""
+#define WLAN_PASS       ""
 
 /************************* Adafruit.io Setup *********************************/
 
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883                   // use 8883 for SSL
-#define AIO_USERNAME    "sumitkv"
-#define AIO_KEY         "1846b0a65e5e4dd292837ad35cd26df2"
+#define AIO_USERNAME    ""
+#define AIO_KEY         ""
 
 /************ Global State (you don't need to change this!) ******************/
 
