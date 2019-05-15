@@ -1,10 +1,9 @@
 V_1 Basic WIFI and MQTT 
-V_2 Auto Connect to AP and Station Mode
+V_2 Auto Connect to AP and Station Mode(bugs)
 V_3 Alternative Push Buttons to control the Relays(in case of No Wifi)
 V_4 EEPROM to store the last state of relays
 V_4.1 Updated version of V_4
 V_5 Encryption SHA1(have bugs)
-V_6
 
 
  
